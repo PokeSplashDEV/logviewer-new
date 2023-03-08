@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128"
+   width="128"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="avatar_self.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="bot.png"
+   inkscape:export-xdpi="256"
+   inkscape:export-ydpi="256"
+   viewBox="0 0 128 128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#738ad6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-25"
+     inkscape:cy="155"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="fill:#738ad6;fill-opacity:1;stroke:none;stroke-width:2.66601"
+     id="rect219"
+     width="127.9375"
+     height="128"
+     x="0.0625"
+     y="0.0625" />
+  <rect
+     style="fill:#000000;stroke:#dd55ff;stroke-width:2.66601"
+     id="rect168"
+     width="78.128494"
+     height="77.333336"
+     x="25.716633"
+     y="31.229166" />
+  <path
+     d="m 19.486344,77.7625 c -3.998047,0 -7.374176,-1.377779 -10.128385,-4.133333 -2.75421,-2.755555 -4.1313151,-6.133334 -4.1313151,-10.133334 0,-4 1.3771051,-7.377778 4.1313151,-10.133333 2.754209,-2.755555 6.130338,-4.133333 10.128385,-4.133333 v -16.4 c 0,-2.133334 0.799609,-4 2.398828,-5.6 1.599219,-1.6 3.464974,-2.4 5.597266,-2.4 h 22.122527 c 0,-4 1.377105,-7.377778 4.131314,-10.133334 2.75421,-2.755555 6.130339,-4.133333 10.128385,-4.133333 3.998047,0 7.374177,1.377778 10.128386,4.133333 2.754209,2.755556 4.131315,6.133334 4.131315,10.133334 h 22.122525 c 2.1323,0 3.99804,0.8 5.59726,2.4 1.59922,1.6 2.39883,3.466666 2.39883,5.6 v 16.4 c 3.99805,0 7.37418,1.377778 10.12839,4.133333 2.75421,2.755555 4.13132,6.133333 4.13132,10.133333 0,4 -1.37711,7.377779 -4.13132,10.133334 -2.75421,2.755554 -6.13034,4.133333 -10.12839,4.133333 v 26.13333 c 0,2.13334 -0.79961,4 -2.39883,5.6 -1.59922,1.6 -3.46496,2.4 -5.59726,2.4 H 27.482438 c -2.132292,0 -3.998047,-0.8 -5.597266,-2.4 -1.599219,-1.6 -2.398828,-3.46666 -2.398828,-5.6 z m 7.996094,26.13333 H 100.24689 V 32.829167 H 27.482438 Z m 0,0 V 32.829167 Z"
+     id="path2"
+     sodipodi:nodetypes="cssscssscssscssscssscssssssccccccccc"
+     style="display:inline;fill:#ffffff;stroke-width:2.66601" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Mouth"
+     style="display:inline"
+     transform="matrix(2.6653646,0,0,2.6666667,-0.10408529,-0.10416667)">
+    <path
+       d="m 15.597436,33.761747 h 16.8 v -3 h -16.8 z"
+       style="display:inline;fill:#cccccc"
+       id="path2642"
+       inkscape:label="pathmouth" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Eyes"
+     style="display:inline"
+     transform="matrix(2.6653646,0,0,2.6666667,-0.10408529,-0.10416667)">
+    <path
+       d="m 17.169533,24.185475 c 0.566667,0 1.041667,-0.191667 1.425,-0.575 0.383333,-0.383333 0.575,-0.858333 0.575,-1.425 0,-0.566667 -0.191667,-1.041667 -0.575,-1.425 -0.383333,-0.383333 -0.858333,-0.575 -1.425,-0.575 -0.566667,0 -1.041667,0.191667 -1.425,0.575 -0.383333,0.383333 -0.575,0.858333 -0.575,1.425 0,0.566667 0.191667,1.041667 0.575,1.425 0.383333,0.383333 0.858333,0.575 1.425,0.575 z m 13.7,0 c 0.566667,0 1.041667,-0.191667 1.425,-0.575 0.383333,-0.383333 0.575,-0.858333 0.575,-1.425 0,-0.566667 -0.191667,-1.041667 -0.575,-1.425 -0.383333,-0.383333 -0.858333,-0.575 -1.425,-0.575 -0.566667,0 -1.041667,0.191667 -1.425,0.575 -0.383333,0.383333 -0.575,0.858333 -0.575,1.425 0,0.566667 0.191667,1.041667 0.575,1.425 0.383333,0.383333 0.858333,0.575 1.425,0.575 z"
+       id="path2591"
+       style="fill:#00ff00"
+       inkscape:label="patheyes" />
+  </g>
+</svg>
